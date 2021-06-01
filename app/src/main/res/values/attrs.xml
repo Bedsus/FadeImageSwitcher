@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoImageSwitcher">
+        <attr name="inAnimation" format="integer" />
+        <attr name="outAnimation" format="integer" />
+        <attr name="showMilliseconds" format="integer" />
+        <attr name="placeholder" format="integer" />
+    </declare-styleable>
+</resources>
